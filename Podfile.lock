@@ -1,0 +1,34 @@
+PODS:
+  - Hero (1.6.2)
+  - IQKeyboardManagerSwift (6.5.11)
+  - Resolver (1.5.0)
+  - SDWebImage (5.14.3):
+    - SDWebImage/Core (= 5.14.3)
+  - SDWebImage/Core (5.14.3)
+  - TinyConstraints (4.0.2)
+
+DEPENDENCIES:
+  - Hero
+  - IQKeyboardManagerSwift
+  - Resolver
+  - SDWebImage (~> 5.0)
+  - TinyConstraints
+
+SPEC REPOS:
+  trunk:
+    - Hero
+    - IQKeyboardManagerSwift
+    - Resolver
+    - SDWebImage
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Hero: c69009dbc9e2f0472e081adc644dba05fcedae72
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  Resolver: 68984624572763018fd8ec7b8e3e8df0e3b6bba5
+  SDWebImage: 9c36e66c8ce4620b41a7407698dda44211a96764
+  TinyConstraints: 7b7ccc0c485bb3bb47082138ff28bc33cd49897f
+
+PODFILE CHECKSUM: 035257ed03cd2b139b34da620efb707d5b1e0038
+
+COCOAPODS: 1.11.3

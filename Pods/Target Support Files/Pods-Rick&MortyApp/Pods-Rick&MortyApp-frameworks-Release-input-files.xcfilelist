@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Rick&MortyApp/Pods-Rick&MortyApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Hero/Hero.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/Resolver/Resolver.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/TinyConstraints/TinyConstraints.framework
